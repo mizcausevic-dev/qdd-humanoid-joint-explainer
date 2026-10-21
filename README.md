@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/qdd-humanoid-joint-explainer/
 
+Repository: https://github.com/mizcausevic-dev/qdd-humanoid-joint-explainer
+
 ## What this is
 
 An interactive anatomy plate for QDD Humanoid Joint. Play, scrub, or jump the five stages. The same frame always draws the same picture.
